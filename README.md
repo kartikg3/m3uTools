@@ -1,6 +1,8 @@
 m3uTools
 ========
 
+Some Bash scripts and tools for handy operation on m3u playlist files.
+
 m3u-cp.sh
 ~~~~~~~~~~
 
